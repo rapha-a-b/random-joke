@@ -1,0 +1,23 @@
+.container {
+  min-height: 80vh !important;
+}
+
+img {
+  height: 20vh !important;
+  width: 20vh;
+  margin-top: 20px;
+  display: block !important;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+}
+
+.textArea {
+  min-height: 200px !important;
+  min-width: 80px !important;
+  background-color: #0fa53c;
+  text-align: center;
+  font-size: 20px;
+}
